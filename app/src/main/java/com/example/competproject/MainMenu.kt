@@ -105,7 +105,7 @@ fun upperMain(){
         horizontalArrangement = Arrangement.SpaceBetween,
         verticalAlignment = Alignment.CenterVertically
     ) {
-        Image(painter = painterResource(id = R.drawable.menu), contentDescription ="menu button" , Modifier.size(30.dp))
+        Image(painter = painterResource(id = R.drawable.menu), contentDescription ="menu_button" , Modifier.size(30.dp))
         // Рисуем три линии
 //        Canvas(modifier = Modifier.padding(bottom = 8.dp)) {
 //            val strokeWidth = 2.dp.toPx()
