@@ -126,7 +126,7 @@ fun upperMain(){
 //            }
 //        }
 
-        // Текст под линиями
+        // Текст под линиямиklfdjgkldfihuh
 
         Text(text = "Главное", style = MaterialTheme.typography.bodyLarge.copy(fontSize = 32.sp))
 
